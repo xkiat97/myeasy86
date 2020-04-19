@@ -1,8 +1,7 @@
 {
   "0123456789": [
     {
-      "deliveryNote": "LS2004022",
-      "deliveryOrder": [
+      "LS2004022": [
         {
           "deliveryDate": "2020-04-18",
           "deliveryOrderNo": "DO2020001",
@@ -102,8 +101,7 @@
         }
       ]
     },{
-      "deliveryNote": "LS2004023",
-      "deliveryOrder": [
+      "LS2004023": [
         {
           "deliveryDate": "2020-04-21",
           "deliveryOrderNo": "DO2020001",
