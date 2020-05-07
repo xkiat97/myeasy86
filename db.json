@@ -1,5 +1,37 @@
 {
-  "0123456789": [
+  "carID": [
+    {
+      "出库单号": [
+        {
+          "deliveryDate": "出库日期",
+          "deliveryOrderNo": "DO号",
+          "deliveryID": "仓号",
+          "consignee": "货主",
+          "containerSequenceNumber": "柜序",
+          "cartons": "出库件数",
+          "m3": "出库立方",
+          "senderName": "发货人-名字",
+          "senderAddress": "发货人-地址",
+          "senderContact": "发货人-手机号码",
+          "customerName": "收货人-名字",
+          "customerAddress": "收货人-地址",
+          "customerContact": "收货人-手机号码",
+          "customerRemark": "备注",
+          "orderDetail": [
+            {
+              "orderNo":"序号",
+              "orderDescription":"仓号 出库重量kg, 出库立方m3。",
+              "orderQuantity":"出库件数"
+            },
+            {
+              "orderNo":"序号",
+              "orderDescription":"仓号 出库重量kg, 出库立方m3。",
+              "orderQuantity":"出库件数"
+            }
+          ]
+        }
+      ]
+    },
     {
       "LS3004022": [
         {
