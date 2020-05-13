@@ -10,7 +10,7 @@
           "containerSequenceNumber": "柜序",
           "cartons": "出库件数",
           "m3": "出库立方",
-          "senderName": "发货人-名字",
+          "senderName": "发货人-名字1",
           "senderAddress": "发货人-地址",
           "senderContact": "发货人-手机号码",
           "customerName": "收货人-名字",
@@ -26,7 +26,7 @@
             {
               "orderNo":"序号",
               "orderDescription":"仓号 出库重量kg, 出库立方m3。",
-              "orderQuantity":"出库件数"
+              "orderQuantity":"出库件数1"
             }
           ]
         }
